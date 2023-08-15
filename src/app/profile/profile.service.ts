@@ -16,7 +16,7 @@ export class ProfileService {
       title: 'Personal Portfolio',
       desc: '',
       livedemo: '',
-      githurl: '',
+      githurl: 'https://github.com/tabrezsyed1998/Mohd-Tabrez-Angular-Portfolio',
       imgUrl: 'assets/images/portfolioImage.png',
       tech: 'Angular 12',
     },
