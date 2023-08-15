@@ -1,0 +1,30 @@
+.cc-reference p{
+    font-weight: 1000px;
+    color: black;
+    font-style: bold;
+  }
+
+  .category p{
+      width: 10%
+  }
+
+  .topics-covered{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px
+  }
+
+  .blur-background {
+    filter: blur(5px);
+  }
+
+  .certificate-link{
+    margin-top:7px;
+    margin-left:15px;
+    @media only screen and (max-width: 767px) {
+      margin-left:0px;
+  }
+    
+  }
+
+  
